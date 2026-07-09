@@ -17,3 +17,5 @@ git remote add origin https://github.com/vick1942/skill-agent-generator.git
 git branch -M main
 git push -u origin main
 ```
+
+https://drive.google.com/drive/u/0/folders/1awTaLRjMio-_Dq2Du3r4qNEJxf809B11
